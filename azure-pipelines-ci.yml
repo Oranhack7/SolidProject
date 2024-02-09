@@ -17,6 +17,6 @@ steps:
 - task: Docker@2
   inputs:
     containerRegistry: 'docker-connection'
-    repository: 'roytzahor/forex'
+    repository: 'oranhack7/solidproject'
     command: 'buildAndPush'
     Dockerfile: '**/Dockerfile'
