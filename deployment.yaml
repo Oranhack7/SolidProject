@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: myapp-container 
-        image: roytzahor/forex:98
+        image: oranhack7/solidproject:77
         ports:
         - containerPort: 8080  # our app port
