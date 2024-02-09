@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: forex-deployment
+  name: solidproject-deployment
 spec:
   replicas: 1
   selector:
