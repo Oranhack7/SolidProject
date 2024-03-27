@@ -1,5 +1,4 @@
-# forex-solid
-# roy commit
+# solid
 
 
 ## Getting started
