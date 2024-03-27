@@ -1,4 +1,4 @@
-# solid
+# Solid
 
 
 ## Getting started
